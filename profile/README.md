@@ -10,3 +10,5 @@
     S[fa:fa-code Service] <--> |Queries| R
     R[fa:fa-filter DB Reader] <--> |Info on Sources and Packages| D[fa:fa-database DB]
 ```
+
+Visit the [cli](https://github.com/crater-space/cli) project for more details on usage, commands, and more.
